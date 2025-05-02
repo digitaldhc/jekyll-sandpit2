@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Digital Minimum Requirements (DIMR)
 
 **[View the DIMR menu](digital-minimum-requirements.md)**
