@@ -7,7 +7,17 @@ layout: home
 
 # Digital Minimum Requirements (DIMR)
 
-**[View the DIMR menu](digital-minimum-requirements.md)**
+<ul class="nhsuk-grid-row nhsuk-card-group">
+  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
+
+    <div class="nhsuk-card nhsuk-card--clickable">
+      <div class="nhsuk-card__content">
+        <h5 class="nhsuk-card__heading nhsuk-heading-xs"> <a class="nhsuk-card__link" href="digital-minimum-requirements.md">View the DIMR menu</a> </h5>
+      </div>
+    </div>
+
+  </li>
+</ul>
 
 ## Purpose
 The purpose of the ITT DIMR (Invitation To Tender Digital Minimum Requirements) is to manage expectations of the Trust's digital requirements down the supply chain. DIMR enables the Trust to identify, against the procurement in question, what requirements need to be inserted into an ITT and will need to be considered during assurance activities, contract negotiations, signature and implementation.
