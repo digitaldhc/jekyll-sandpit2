@@ -12,7 +12,7 @@ layout: home
 
     <div class="nhsuk-card nhsuk-card--clickable">
       <div class="nhsuk-card__content">
-        <h5 class="nhsuk-card__heading nhsuk-heading-xs"> <a class="nhsuk-card__link" href="digital-minimum-requirements.md">View the DIMR menu</a> </h5>
+        <h5 class="nhsuk-card__heading nhsuk-heading-xs"> <a class="nhsuk-card__link" href="digital-minimum-requirements.html">View the DIMR menu</a> </h5>
       </div>
     </div>
 
