@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital minimum requirements
-permalink: /digital-minimum-requirements/
+permalink: digital-minimum-requirements.html
 ---
 
 | DIMR menu item | DIMR domain | DIMR statement | Hosted | On prem | Mobile |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Change log
-permalink: /change-log/
+permalink: change-log.html
 ---
 
 # Digital Minimum Requirements (DIMR) - change log
