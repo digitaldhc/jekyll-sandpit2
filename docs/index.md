@@ -8,11 +8,19 @@ layout: home
 # Digital Minimum Requirements (DIMR)
 
 <ul class="nhsuk-grid-row nhsuk-card-group">
-  <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
+  <li class="nhsuk-grid-column-two-thirds nhsuk-card-group__item">
 
     <div class="nhsuk-card nhsuk-card--clickable">
-      <div class="nhsuk-card__content">
-        <h5 class="nhsuk-card__heading nhsuk-heading-xs"> <a class="nhsuk-card__link" href="digital-minimum-requirements.html">View the DIMR menu</a> </h5>
+      <div class="nhsuk-card__content nhsuk-card__content--primary">
+        <h2 class="nhsuk-card__heading nhsuk-heading-m"> <a class="nhsuk-card__link" href="digital-minimum-requirements.html">View the DIMR menu</a> </h2>
+        <p class="nhsuk-card__description">The full list of all DIMR requirements</p>
+        <svg class="nhsuk-icon" xmlns="http://www.w3.org/2000/svg" width="27" height="27" aria-hidden="true" focusable="false">
+          <circle cx="13.333" cy="13.333" r="13.333" fill="" />
+          <g data-name="Group 1" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.667">
+            <path d="M15.438 13l-3.771 3.771" />
+            <path data-name="Path" d="M11.667 9.229L15.438 13" />
+          </g>
+        </svg>
       </div>
     </div>
 
